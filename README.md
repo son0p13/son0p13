@@ -1,60 +1,93 @@
-# 👋 Xin chào, mình là Tuấn Sơn
+<div align="center">
+  <img src="https://img.shields.io/badge/HELLO%2C_TUAN--SON-black?style=for-the-badge&logo=github">
+</div>
+
+<h1 align="center">🌌 Welcome to my universe!</h1>
+
+<h3 align="center">Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW9ueW55bnlueW55bnlueW55bnlueW55bnlueW55bnlueW55JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
+<hr>
+
+### 💻 About Me
+
+* 🎯 **Current Focus:** Crafting applications with Java, Python, and Next.js.
+* 📚 **Learning Next:** Mastering Machine Learning, AI, and DevOps.
+* 🤝 **Collaborations:** Open to discussions on AI/ML, Data Science, and IoT.
+
+<br>
+
+### 📫 Connect with Me
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Lập_trình_viên_năng_động-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/University-PTIT-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-AI_|_Data_Science-blue?style=flat-square" />
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:tuansonzzz13@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-### 👨‍💻 Giới thiệu về mình
-Mình là sinh viên chuyên ngành **Công nghệ thông tin** tại Học viện Công nghệ Bưu chính Viễn thông (PTIT). Mình có đam mê mãnh liệt với việc xây dựng các thuật toán từ con số 0 và giải quyết các bài toán phức tạp về dữ liệu.
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="500">
+</p>
 
-- 🔭 **Dự án hiện tại:** Phát triển các mô hình học máy xử lý ngôn ngữ tự nhiên và thị giác máy tính.
-- 🌱 **Đang nghiên cứu sâu:** Hệ thống phân tán, DevOps (AWS/GCP) và kiến trúc ứng dụng quy mô lớn.
-- ⚡ **Sở thích:** Giải thuật toán trên CodePTIT/LeetCode và xây dựng các hệ thống IoT thông minh.
+<hr>
 
----
+### 🚀 Tech Universe
 
-### 🛠️ Kỹ năng & Công cụ
-
-| Lĩnh vực | Công nghệ |
-| :--- | :--- |
-| **Ngôn ngữ** | `C/C++`, `Java`, `Python`, `TypeScript`, `SQL`, `Dart` |
-| **Frameworks** | `ReactJS`, `Next.js`, `Flutter`, `Django`, `NestJS` |
-| **Cơ sở dữ liệu** | `PostgreSQL`, `SQL Server`, `SQLite`, `MySQL` |
-| **Công nghệ khác** | `ESP32 (IoT)`, `OpenCV`, `Socket Programming`, `Git/Docker` |
-
----
-
-### 🚀 Dự án tiêu biểu
-- **Fake Review Detection:** Sử dụng PhoBERT và NLP để phát hiện các đánh giá giả mạo với độ chính xác cao.
-- **Smart Irrigation System:** Hệ thống tưới tiêu thông minh tích hợp ESP32, cảm biến độ ẩm và điều khiển qua giao thức MQTT.
-- **Multiplayer Memory Game:** Trò chơi đa người chơi phát triển trên nền tảng Java RMI và kiến trúc Client-Server.
-- **Game Development:** Các dự án game Top-down và giáo dục trên GameMaker Studio và Roblox.
-
----
-
-### 📊 Thống kê GitHub
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-### 📫 Kết nối với mình
-<p align="left">
-  <a href="mailto:tuansonzzz13@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://t.me/YOUR_TELEGRAM">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<br>
+
+### 🔧 My Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,ts,html,css,js,nextjs,flutter,mysql,sqlite,postgres,git,github,docker&perline=8" />
   </a>
 </p>
 
----
-*“Done is better than perfect, but a perfect algorithm is a work of art.”*
+<hr>
+
+### 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&area=true" />
+</p>
+
+<br>
+
+### 🏆 GitHub Analytics & Streak
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
+  </a>
+</p>
+
+<hr>
+
+### 🐍 Fun Fact: Commit Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
