@@ -7,7 +7,7 @@
 <h3 align="center">Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=son0p13&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <hr>
@@ -23,7 +23,7 @@
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/son0p13"><img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:tuansonzzz13@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
@@ -71,7 +71,7 @@
 ### 📊 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=son0p13&theme=tokyonight&hide_border=true&area=true" />
 </p>
 
 <br>
@@ -80,7 +80,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=son0p13&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
   </a>
 </p>
 
@@ -89,5 +89,5 @@
 ### 🐍 Fun Fact: Commit Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/son0p13/son0p13/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
