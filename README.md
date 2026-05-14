@@ -25,7 +25,7 @@
 <p align="left">
   <a href="https://github.com/son0p13"><img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:tuansonzzz13@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tu%E1%BA%A5n-s%C6%A1n-ho%C3%A0ng-157b5940a/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
